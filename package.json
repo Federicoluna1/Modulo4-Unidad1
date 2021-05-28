@@ -1,0 +1,24 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "Utilizar los conceptos aprendidos en esta unidad para crear una pequeña aplicación de temática\r libre.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Federicoluna1/Modulo4-Unidad1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Federicoluna1/Modulo4-Unidad1/issues"
+  },
+  "homepage": "https://github.com/Federicoluna1/Modulo4-Unidad1#readme"
+}
